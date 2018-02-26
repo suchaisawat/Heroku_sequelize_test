@@ -1,0 +1,1 @@
+# Heroku_sequelize_test
